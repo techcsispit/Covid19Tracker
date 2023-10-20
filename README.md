@@ -1,5 +1,3 @@
-Creating a README for your COVID-19 tracker repository built with React and open to contributions for Hacktoberfest is a great way to engage potential contributors and provide essential information. Here's a template you can use:
-
 # Hacktoberfest COVID-19 Tracker
 
 Welcome to the Hacktoberfest COVID-19 Tracker repository! We're excited to have you as a potential contributor to our COVID-19 tracking application built with React.
