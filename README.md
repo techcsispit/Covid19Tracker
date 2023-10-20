@@ -1,6 +1,6 @@
-# Hacktoberfest COVID-19 Tracker
+# COVID-19 Tracker
 
-Welcome to the Hacktoberfest COVID-19 Tracker repository! We're excited to have you as a potential contributor to our COVID-19 tracking application built with React.
+Welcome to the COVID-19 Tracker repository! We're excited to have you as a potential contributor to our COVID-19 tracking application built with React.
 
 ![Project Demo](demo.gif)
 
@@ -95,4 +95,4 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing. We 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Thank you for participating in Hacktoberfest, and we look forward to your contributions to help keep this COVID-19 tracker up-to-date and informative!
+Thank you for participating in Source Start, and we look forward to your contributions to help keep this COVID-19 tracker up-to-date and informative!
