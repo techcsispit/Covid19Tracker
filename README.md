@@ -26,13 +26,13 @@ To get started with the project, follow these steps:
 2. **Clone Your Fork:** Clone your fork of the repository to your local machine using `git clone`.
 
    ```bash
-   git clone https://github.com/your-username/hacktoberfest-covid19-tracker.git
+   git clone https://github.com/techcsispit/Covid19Tracker.git
    ```
 
 3. **Install Dependencies:** Navigate to the project directory and install the required dependencies using npm or yarn.
 
    ```bash
-   cd hacktoberfest-covid19-tracker
+   cd Covid19Tracker
    npm install
    # OR
    yarn install
